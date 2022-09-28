@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pseudo-Corp/SynergismOfficial.git"
+    "url": "git+https://github.com/doppy4j/synergism.git"
   },
   "keywords": [
     "synergism",
@@ -42,7 +42,7 @@
   "author": "Platonic/Pseudonian",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Pseudo-Corp/SynergismOfficial/issues"
+    "url": "https://github.com/doppy4j/synergism/issues"
   },
-  "homepage": "https://github.com/Pseudo-Corp/SynergismOfficial#readme"
+  "homepage": "https://github.com/doppy4j/synergism#readme"
 }
